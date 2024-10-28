@@ -1,0 +1,59 @@
+.titulo {
+    font-size: 30px;
+    background-color: rgb(252, 232, 199);
+    padding: 6px;
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+}
+
+.texto {
+    font-size: 30px;
+    width: 100%;
+}
+
+.item {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item img {
+    width: 75px;
+    margin: 10px;
+}
+
+.itens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 200px;
+}
+
+span {
+    color: rgb(169, 105, 96);
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.tudo {
+    text-align: center;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+#sobre {
+    padding: 1%;
+}
+
+.sobreA {
+    margin-top: 20px;
+}
+
+.dark-mode #sobre .sobreA titulo {
+    color: #000;
+}

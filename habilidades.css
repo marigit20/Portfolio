@@ -1,0 +1,22 @@
+.conteudo {
+    text-align: center;
+    width: 300px;
+    margin: 100px;
+}
+
+.textoh {
+    text-align: justify;
+    width: 300px;
+    font-size: 24px;
+}
+
+.tituloh {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#habi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

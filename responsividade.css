@@ -1,0 +1,77 @@
+@media screen and (max-width: 1340px) {
+    #meio {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #alinha {
+        width: 100%;
+        text-align: center;
+    }
+
+    #mari {
+        padding: 10px 0px;
+        font-size: 72px;
+    }
+
+    #dev {
+        padding: 10px 0px;
+        font-size: 28px;
+    }
+
+    .dentro {
+        display: none;
+    }
+
+    .footer {
+        display: block;
+        text-align: center;
+    }
+
+    #direita {
+        width: 100%;
+        text-align: center;
+    }
+
+    #direita img {
+        width: 100%;
+        height: auto;
+    }
+
+    #input{
+        padding-left: 10px;
+        font-size: 30px;
+
+    }
+
+    #input input{
+        height: 5vh;
+        width: 50%;
+        background-color: rgba(252, 231, 198, 100%);
+        border: none;
+        border-radius: 20px;
+        margin: 10px 0px;
+    }
+
+    #serv {
+        font-size: 22px;
+    }
+
+    
+    #logo2 img {
+        width: 90%;
+    }
+
+    .tudo {
+        width: 100%;
+    }
+
+    .titulo {
+        font-size: 26px;
+    }
+
+    .conteudo {
+        margin: 50px;
+    }
+}
+
